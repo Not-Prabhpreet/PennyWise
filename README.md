@@ -1,2 +1,2 @@
 # PennyWise
-I am building a website for managing money and budgeting
+An interactive budget management website that leverages AI to provide personalized financial advice. Users can ask specific questions like 'How much can I spend on dinner tonight?' and receive instant guidance based on their budgeting preferences and financial data. This project uses Next.js, React, Tailwind CSS, and AI technologies to create a user-friendly experience for managing personal finances.
